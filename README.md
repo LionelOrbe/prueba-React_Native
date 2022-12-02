@@ -1,6 +1,6 @@
-# Prueba Tecnica-React_Native
+# Prueba Técnica React Native
 
-Para probar la aplicacion:
+Para probar la aplicación:
 
 - Clonar el repositorio
 - Tener instalado Node y Expo
