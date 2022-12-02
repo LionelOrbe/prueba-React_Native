@@ -3,7 +3,7 @@ import { Text, View, StyleSheet, Image} from 'react-native';
 
 export default function Post({ route }) {
     const {img, title, body} = route.params
-    console.log('img', img)
+    
   return (
         <View style={styles.container}>
             <Image source={{uri: img}}  resizeMode='contain' style={styles.image}/>
