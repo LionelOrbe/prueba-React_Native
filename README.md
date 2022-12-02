@@ -10,20 +10,20 @@ Para probar la aplicacion:
  
 ![screen](https://github.com/LionelOrbe/prueba-React_Native/blob/main/ScreenShots/1.png)
 
- </br>
+</br>
  
 ![screen](https://github.com/LionelOrbe/prueba-React_Native/blob/main/ScreenShots/2.png)
  
-  </br>
+</br>
 ![screen](https://github.com/LionelOrbe/prueba-React_Native/blob/main/ScreenShots/3.png)
  
-  </br>
-  ![screen](https://github.com/LionelOrbe/prueba-React_Native/blob/main/ScreenShots/4.png)
+</br>
+![screen](https://github.com/LionelOrbe/prueba-React_Native/blob/main/ScreenShots/4.png)
  
-  </br>
-  ![screen](https://github.com/LionelOrbe/prueba-React_Native/blob/main/ScreenShots/5.png)
+</br>
+![screen](https://github.com/LionelOrbe/prueba-React_Native/blob/main/ScreenShots/5.png)
  
-  </br>
-  ![screen](https://github.com/LionelOrbe/prueba-React_Native/blob/main/ScreenShots/6.png)
+</br>
+![screen](https://github.com/LionelOrbe/prueba-React_Native/blob/main/ScreenShots/6.png)
  
-  </br>
+</br>
